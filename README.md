@@ -17,7 +17,7 @@ For each KB, user can vote it and comment to below KB.
 2. Set startup project is KnowledgeSpace.BackendServer
 3. Run Update-Database to generate database
 4. Set startup project to multiple projects include: KnowledgeSpace.BackendServer and KnowledgeSpace.WebPortal
-5. UnitTest Tests/KnowledgeSpace.BackendServer.UnitTest and KnowledgeSpace.ViewModels.UnitTest
+5. Unit Test folder Tests: KnowledgeSpace.BackendServer.UnitTest and KnowledgeSpace.ViewModels.UnitTest
 
 # References
 - [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
